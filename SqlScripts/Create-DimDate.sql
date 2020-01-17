@@ -1,5 +1,5 @@
 --==================================================================
---  OHO Data Warehouse: DIMDATE
+--  DIMDATE:
 --
 --  Synopsis: Development script for Facts and Dimensions.
 --

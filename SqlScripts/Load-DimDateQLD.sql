@@ -1,5 +1,5 @@
 --==================================================================
---  OHO Data Warehouse: LOAD-DIMDATE
+--  LOAD-DIMDATEQLD
 --
 --  Synopsis: Loads into the table created by "Load-DimDate.sql".
 --
