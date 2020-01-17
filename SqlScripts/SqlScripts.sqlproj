@@ -59,6 +59,8 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="TryCatchWithCursor.sql" />
+    <Build Include="DataFix-TryCatchWithCursorTemplate.sql" />
+    <Build Include="Create-DimDate.sql" />
+    <Build Include="Load-DimDateQLD.sql" />
   </ItemGroup>
 </Project>
